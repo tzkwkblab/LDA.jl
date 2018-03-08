@@ -14,7 +14,7 @@
 ### Install
 
 ```
-julia> Pkg.clone("git@github.com:wkblab/OnlineHDPLDA.jl.git")
+julia> Pkg.clone("git@github.com:wkblab/LDA.jl.git")
 ```
 
 ```julia
